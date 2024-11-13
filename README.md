@@ -36,7 +36,7 @@ git clone
 1. Clone the repository:
 
 ```bash
-git clone
+git clone  "Shrisht200/vitejs-vite-rjr5j9"
 git clone
 cd weather-now
 ```
